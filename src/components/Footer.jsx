@@ -3,8 +3,8 @@ import { FaLinkedin, FaGithub, FaWhatsapp } from "react-icons/fa6";
 export default function Footer() {
   return (
     <>
-      <div className="bg-theme flex justify-center mt-44 p-5">
-        <div className="sm:w-full md:w-full w-1/2 pb-10 sm:p-0">
+      <div className="bg-theme flex justify-center bottom-0 mt-10 text-center">
+        <div className="sm:w-full md:w-full w-1/2 py-10 sm:p-0">
           <div className="p-2 font-mont text-center text-gray-50">
             <p className="pb-2">Projetado e Desenvolvido por</p>
             <div className="h-1 border-2 border-gray-50 border-dotted"></div>
